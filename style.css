@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(73, 216, 204);
+    font-family: 'Papyrus';
+    font-size: large;
+    font-weight: 500;
+}
+
+#timer, #score{
+    margin: 250px;
+    font-size: 20px;
+}
+
+#STBD{
+    color: rgb(212, 23, 23);
+    font-weight:bolder;
+}
